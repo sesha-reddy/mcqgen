@@ -1,0 +1,26 @@
+MCQ,Choices,Correct
+What is data science?,
+"a: A field that uses statistics, scientific computing, and algorithms to extract knowledge from data 
+ b: A branch of computer science focused on data visualization 
+ c: A field that studies natural sciences and medicine 
+ d: A discipline that only focuses on structured data",a
+What does a data scientist do?,
+a: Creates programming code and combines it with statistical knowledge to gain insights from data | 
+b: Designs websites and mobile applications | 
+c: Conducts experiments in a laboratory setting | 
+d: Analyzes historical artifacts,a
+How is data science related to statistics?,
+a: Data science is a completely new field unrelated to statistics | 
+b: Data science is just another name for statistics | 
+c: Data science focuses on digital data unique to statistics | 
+d: Data science only deals with qualitative data,b
+When was the term 'data science' first used?,
+a: In 1985 by C. F. Jeff Wu | 
+b: In 1998 by Hayashi Chikio | 
+c: In 1962 by John Tukey | 
+d: In 1974 by Peter Naur,a
+What were popular terms for finding patterns in datasets in the 1990s?,
+a: Data visualization and data integration | 
+b: Knowledge discovery and data mining | 
+c: Data sonification and graphic design | 
+d: Information visualization and complex systems,b
